@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 125.49703054943946;
+        stroke-dashoffset: 125.6101007300039;
       }
     }
   
@@ -157,7 +157,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >344</text>
+      >327</text>
     </g>
   </g><g transform="translate(0, 42)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
